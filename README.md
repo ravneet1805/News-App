@@ -1,16 +1,17 @@
 # newsapp
 
-A new Flutter project.
+The News App allows users to access and browse the latest news articles and headlines from various sources. It provides an intuitive and user-friendly interface to keep users informed about current events and trending news topics. The app is built using Flutter.
+
+## Firebase Authentication
+
+Email/Password Authentication: Allows users to sign up and sign in using their email and password. Firebase securely stores user passwords and handles the entire authentication process.
+
+## API
+
+The News App fetches news data from the News API.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
