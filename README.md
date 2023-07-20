@@ -20,5 +20,8 @@ The News App fetches news data from the News API.
 <img width="368" alt="Screenshot 2023-07-20 at 6 18 01 PM" src="https://github.com/ravneet1805/News-App/assets/97474782/b5730634-0086-4342-8d1a-7647fa3f06bd">
 
 
+demo video = https://drive.google.com/file/d/1cItTz51G0PuhImARZ7vWkjG87FbrPrgD/view?usp=sharing
+
+
 
 
